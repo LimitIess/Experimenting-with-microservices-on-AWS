@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/LimitIess/Project/actions/workflows/devops.yml/badge.svg)](https://github.com/LimitIess/Project/actions/workflows/devops.yml)
+
 # Project
 AWS Microservices
 
