@@ -9,3 +9,6 @@ AWS Microservices
 2. Create empty files: `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`, `mylib/__init__.py`
 3. Populate `Makefile`
 4. Setup Continuous Integration, check code for issues.
+5. Build cli using Python Fire library ` ./cli-fire.py --help` to test the logic.
+
+
